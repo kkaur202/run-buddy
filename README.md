@@ -16,5 +16,9 @@ sdfghjkl
 
 Made with ❤️ by Kiranjot Kaur
 
+<<<<<<< HEAD
 
 
+=======
+### ©️2019 Run Buddy, Inc
+>>>>>>> 8fc198dd0f3584c58d9fe5bf5e3d5077c60110a5
