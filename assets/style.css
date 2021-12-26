@@ -11,7 +11,6 @@ body{
 }
 
 /*---adding style to header*/
-
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -20,7 +19,7 @@ header {
 
 header h1 {
     font-weight: bold;
-    font-size: 36px;
+    font-size: 25px;
     color: #fce138;
     margin: 0;
 }
@@ -77,7 +76,7 @@ section{
   
 /*-------hero style started---*/
 .hero {
-    background-image: url(../assets/images/hero-bg.jpg);
+    background-image: url(../assets/images/flipped-hero-image.jpg);
     height: 600px;
     background-size: cover;
     background-position: center;
